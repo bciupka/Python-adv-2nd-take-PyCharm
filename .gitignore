@@ -1,0 +1,7 @@
+venv
+*.txt
+*.csv
+*.html
+notatki.txt
+shortcuts.txt
+*.pdf
